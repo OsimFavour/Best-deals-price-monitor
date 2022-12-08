@@ -10,6 +10,25 @@ This particular webscraper checks the best deals for an Apple MacBook Pro (14-in
 # Screenshots of Websites with price
 
 Amazon's Current Price
+
 ![Amazon product screenshot](https://user-images.githubusercontent.com/95959056/206532107-d582379b-e8f7-47fc-b229-3eb03e11b588.PNG)
+
+
+Bestbuy Current Price
+
+![Bestbuy product screenshot](https://user-images.githubusercontent.com/95959056/206533069-8f96c303-ee77-4ee3-a4bd-280a2794e344.PNG)
+
+
+Ebay's Current Price
+
+![Ebay Product Screenshot](https://user-images.githubusercontent.com/95959056/206533287-dbc1b2ba-b0f8-4023-a25e-3431026e2999.PNG)
+
+
+Walmart's Current Price
+
+![Walmart Product Screenshot](https://user-images.githubusercontent.com/95959056/206533425-b69d9972-dbc4-45eb-9988-e60bfc039041.PNG)
+
+
+
 
 
