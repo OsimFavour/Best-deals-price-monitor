@@ -5,7 +5,7 @@ A webscraper that gets the best deals from e-commerce websites such as Amazon, E
 
 # Description
 
-This particular webscraper checks the best deals for an Apple MacBook Pro (14-inch, Apple M1 Pro chip with 8-core CPU and 14-core GPU, 16GB RAM, 512GB SSD) - Space Gray
+This particular webscraper checks the best deals for an Apple MacBook Pro (14-inch, Apple M1 Pro chip with 8-core CPU and 14-core GPU, 16GB RAM, 512GB SSD) - Space Gray from the best e-commerce stores
 
 # Screenshots of Websites with price
 
