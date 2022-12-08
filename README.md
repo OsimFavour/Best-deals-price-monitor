@@ -33,6 +33,14 @@ This particular webscraper checks the best deals for an Apple MacBook Pro (14-in
 
 ![best-deals-screenshot](https://user-images.githubusercontent.com/95959056/206536251-6c2e9b89-8fce-480e-9304-c26d8bb7d186.PNG)
 
+# Language and Libraries
+- Python
+- Python Requests
+- Beautiful Soup
+- ORM Pony
+- Requests-HTML
+- HTTP.Client
+
 
 
 
