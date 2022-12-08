@@ -16,22 +16,22 @@ This particular webscraper checks the best deals for an Apple MacBook Pro (14-in
 
 # Bestbuy Current Price
 
-![Bestbuy product screenshot](https://user-images.githubusercontent.com/95959056/206533069-8f96c303-ee77-4ee3-a4bd-280a2794e344.PNG)
+![Bestbuy product screenshot](https://user-images.githubusercontent.com/95959056/206536036-d72d287f-7e41-4c99-a509-681b3a70e7fb.PNG)
 <br></br>
 
 # Ebay's Current Price
 
-![Ebay Product Screenshot](https://user-images.githubusercontent.com/95959056/206533287-dbc1b2ba-b0f8-4023-a25e-3431026e2999.PNG)
+![Ebay Product Screenshot](https://user-images.githubusercontent.com/95959056/206536087-a799f426-322f-4077-9e28-823e658d349f.PNG)
 <br></br>
 
 # Walmart's Current Price
 
-![Walmart Product Screenshot](https://user-images.githubusercontent.com/95959056/206533425-b69d9972-dbc4-45eb-9988-e60bfc039041.PNG)
+![Walmart Product Screenshot](https://user-images.githubusercontent.com/95959056/206536151-6ac2b07a-843b-46ba-a719-fc2fff3059e0.PNG)
 <br></br>
 
 # Screenshot of Database to aid decision making
 
-![best-deals-screenshot](https://user-images.githubusercontent.com/95959056/206534070-41ccbc99-9b7a-4cf8-ad32-21b53ae7e7e0.PNG)
+![best-deals-screenshot](https://user-images.githubusercontent.com/95959056/206536251-6c2e9b89-8fce-480e-9304-c26d8bb7d186.PNG)
 
 
 
