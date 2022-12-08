@@ -27,6 +27,9 @@ This particular webscraper checks the best deals for an Apple MacBook Pro (14-in
 # Walmart's Current Price
 
 ![Walmart Product Screenshot](https://user-images.githubusercontent.com/95959056/206536151-6ac2b07a-843b-46ba-a719-fc2fff3059e0.PNG)
+
+<br></br>
+
 <br></br>
 
 # Screenshot of Database to aid decision making
