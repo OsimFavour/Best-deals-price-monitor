@@ -3,6 +3,7 @@
 Looking for the best deals on an Apple MacBook Pro? Look no further than Best Deals Price Monitor! This powerful web scraper scours top e-commerce websites such as Amazon, Ebay, Walmart, and Bestbuy to find the best prices on the latest and greatest MacBook Pro.
 
 With Best Deals Price Monitor, you can easily compare prices across multiple platforms and make an informed purchasing decision. Whether you're a student, creative professional, or simply looking for a powerful and reliable laptop, this web scraper has got you covered.
+<br>
 
 # Screenshots of Websites with price
 <hr>
