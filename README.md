@@ -49,6 +49,10 @@ With Best Deals Price Monitor, you can easily compare prices across multiple pla
 - Compiles all of the data into a user-friendly spreadsheet, allowing you to easily compare prices and make an informed purchasing decision.
 - Can be customized to search for other products as well, making it a versatile tool for anyone looking to save money on their next online purchase, also save time going through those websites everytime the price changed.
 
+# How to Use
+1. Install the necessary Python packages (requests, BeautifulSoup, lxml, pony, requests-html and http.client).
+2. import requests
+
 
 # Language and Libraries
 - Python
