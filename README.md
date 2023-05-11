@@ -3,7 +3,7 @@
 Looking for the best deals on an Apple MacBook Pro? Look no further than Best Deals Price Monitor! This powerful web scraper scours top e-commerce websites such as Amazon, Ebay, Walmart, and Bestbuy to find the best prices on the latest and greatest MacBook Pro.
 
 With Best Deals Price Monitor, you can easily compare prices across multiple platforms and make an informed purchasing decision. Whether you're a student, creative professional, or simply looking for a powerful and reliable laptop, this web scraper has got you covered.
-<br>
+<br></br>
 
 # Screenshots of Websites with price
 <hr>
@@ -46,21 +46,23 @@ With Best Deals Price Monitor, you can easily compare prices across multiple pla
 
 # Features
 - Scrapes top e-commerce websites such as Amazon, Ebay, Walmart, and Bestbuy for the best deals on an Apple MacBook Pro.
-- Compiles all of the data into a user-friendly spreadsheet, allowing you to easily compare prices and make an informed purchasing decision.
+- Compiles all of the data into an sqlite database, allowing you to easily compare prices and make an informed purchasing decision.
 - Can be customized to search for other products as well, making it a versatile tool for anyone looking to save money on their next online purchase, also save time going through those websites everytime the price changed.
 
 # How to Use
 1. Install the necessary Python packages (requests, BeautifulSoup, lxml, pony, requests-html and http.client).
-2. import requests
+2. Clone the repository to your local machine.
+3. Run the script `main.py`.
+4. Wait for the script to scrape all of the e-commerce websites and compile the data into a database
+5. Use the spreadsheet to compare prices and make an informed purchasing decision.
+
+# Future Improvements
+While Best-deals-price-monitor is already a powerful tool for anyone looking to save money and time on their online purchase, there are always ways to improve. Some potential future improvements include:
+- Adding Support for additional e-commerce websites.
+- Allowing users to input their own serach criteria for other products.
+- Use either the django framework or the flask framework to create a user interface to make the tool even more accessible and user-friendly.
 
 
-# Language and Libraries
-- Python
-- Python Requests
-- Beautiful Soup
-- ORM Pony
-- Requests-HTML
-- HTTP.Client
 
 
 
