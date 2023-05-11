@@ -1,11 +1,8 @@
 # Best-deals-price-monitor
 
+Looking for the best deals on an Apple MacBook Pro? Look no further than Best Deals Price Monitor! This powerful web scraper scours top e-commerce websites such as Amazon, Ebay, Walmart, and Bestbuy to find the best prices on the latest and greatest MacBook Pro.
 
-A webscraper that gets the best deals from e-commerce websites such as Amazon, Ebay, Walmart, and Bestbuy. This will help the user compare the price of desired product to make the best purchasing decision that he/she can make.
-
-# Description
-
-This particular webscraper checks the best deals for an Apple MacBook Pro (14-inch, Apple M1 Pro chip with 8-core CPU and 14-core GPU, 16GB RAM, 512GB SSD) - Space Gray from the best e-commerce stores
+With Best Deals Price Monitor, you can easily compare prices across multiple platforms and make an informed purchasing decision. Whether you're a student, creative professional, or simply looking for a powerful and reliable laptop, this web scraper has got you covered.
 
 # Screenshots of Websites with price
 
