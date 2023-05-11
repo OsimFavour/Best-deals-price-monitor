@@ -5,6 +5,7 @@ Looking for the best deals on an Apple MacBook Pro? Look no further than Best De
 With Best Deals Price Monitor, you can easily compare prices across multiple platforms and make an informed purchasing decision. Whether you're a student, creative professional, or simply looking for a powerful and reliable laptop, this web scraper has got you covered.
 
 # Screenshots of Websites with price
+<hr>
 
 # Amazon's Current Price
 
@@ -44,8 +45,9 @@ With Best Deals Price Monitor, you can easily compare prices across multiple pla
 
 # Features
 - Scrapes top e-commerce websites such as Amazon, Ebay, Walmart, and Bestbuy for the best deals on an Apple MacBook Pro.
-Compiles all of the data into a user-friendly spreadsheet, allowing you to easily compare prices and make an informed purchasing decision.
-Can be customized to search for other products as well, making it a versatile tool for anyone looking to save money on their next online purchase.
+- Compiles all of the data into a user-friendly spreadsheet, allowing you to easily compare prices and make an informed purchasing decision.
+- Can be customized to search for other products as well, making it a versatile tool for anyone looking to save money on their next online purchase, also save time going through those websites everytime the price changed.
+
 
 # Language and Libraries
 - Python
