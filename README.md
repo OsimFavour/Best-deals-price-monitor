@@ -42,6 +42,11 @@ With Best Deals Price Monitor, you can easily compare prices across multiple pla
 
 <br></br>
 
+# Features
+- Scrapes top e-commerce websites such as Amazon, Ebay, Walmart, and Bestbuy for the best deals on an Apple MacBook Pro.
+Compiles all of the data into a user-friendly spreadsheet, allowing you to easily compare prices and make an informed purchasing decision.
+Can be customized to search for other products as well, making it a versatile tool for anyone looking to save money on their next online purchase.
+
 # Language and Libraries
 - Python
 - Python Requests
