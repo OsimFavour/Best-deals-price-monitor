@@ -6,7 +6,6 @@ With Best Deals Price Monitor, you can easily compare prices across multiple pla
 <br></br>
 
 # Screenshots of Websites with price
-<hr>
 
 # Amazon's Current Price
 
